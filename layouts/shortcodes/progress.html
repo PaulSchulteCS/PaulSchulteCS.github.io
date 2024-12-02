@@ -1,0 +1,6 @@
+  <div class="progress">
+    <div class="progress-bar progress-bar-striped active" role="progressbar"
+    aria-valuenow="{{ .Get "value" }}" aria-valuemin="0" aria-valuemax="{{ .Get "max" }}" style="width:{{ printf "%.0f%%" (mul (div (float (index .Params "value")) (float (index .Params "max"))) 100) }}">
+    {{ printf "%.0f%%" (mul (div (float (index .Params "value")) (float (index .Params "max"))) 100) }}
+    </div>
+  </div> 
