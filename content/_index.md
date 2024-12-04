@@ -1,16 +1,26 @@
 ## About me
 
-I am a 20-year old student from Aachen, Germany...
+I am a 20-year old student from Germany. Currently, I am pursuing a bachelor's degree in Computer Science at RWTH Aachen University. 
+
+--- 
 
 ## Education
 
-I am currently pursuing a [bachelor's degree](/education/bachelor) in Computer Science at RWTH Aachen University
+##### {{< icon icon="fas fa-graduation-cap">}} [B. Sc. in Computer Science](/education/bachelor), Oct 2022 - Sep 2025
+* RWTH Aachen University, Germany
+
+
+---
+
 
 ## Interests
 - Graph Theory
-- Algorithms
+- Efficient algorithms and complexity
 - Machine Learning
 - Robotics
 
-## Research
-- Coming soon...
+
+
+
+
+<!--## Research- Coming soon...-->

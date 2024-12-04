@@ -1,16 +1,16 @@
 +++
 author = "Paul Schulte"
-title = "Test_post"
-date = 2024-12-02T14:17:11+02:00
+title = "Exchange studies at Aalto University, Finland"
+date = 2024-12-04T16:14:00+02:00
 description = "Description."
 tags = [
     "test",
 ]
 categories = [
-    "themes",
+    "studies",
 ]
-series = ["Test"]
+series = ["Studies"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-This is a test post
+TODO
